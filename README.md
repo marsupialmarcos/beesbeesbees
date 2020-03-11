@@ -18,7 +18,7 @@ As you can see in the diagram above, all bees start out as a Grub, grow into a B
 
 **Resources**
 
-[Object.create]("https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create")
+[Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 
 # BARE MINIMUM REQUIREMENTS
 
